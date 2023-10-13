@@ -12,6 +12,6 @@
 ### 📝 给自己的任务清单
 
 - [ ] Aseprite 的简中翻译和汉化主题 - 进度: 只有汉化主题🤣 (自用程度)
-- [ ] Techmino 的非官 AltStore 下载源 - 进度:新建文件夹🤣 (自用程度)
+- [x] Techmino 的非官 AltStore 下载源 (自用程度)
 - [ ] 别把你那个铁壳语音包说好的补全给忘了
 - [ ] Techmino SFX,Skin For TETR.IO (自用程度)
